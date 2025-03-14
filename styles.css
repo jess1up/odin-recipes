@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(47, 47, 47);
+    color: rgb(255, 217, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+}
+
+a {
+    color: white;
+}
+
+.recipe-box {
+    background-color: rgb(17, 70, 83);
+    margin: 40px auto;
+    max-width: 400px;
+    padding: 10px;
+}
+
+body.recipe-page {
+    color: rgb(33, 109, 130);
+}
+
+.recipe-page h1 {
+    color: rgb(255, 217, 0);
+}
+
+.image-container {
+    text-align: center;
+}
+
+.centered-image {
+    display: inline-block;
+    text-align: center;
+    width: 320px; height: 320px;
+    vertical-align: middle;
+    margin: 0 auto;
+}
+
+.recipe-item {
+    padding: 10px;
+    margin: 10px;
+}
